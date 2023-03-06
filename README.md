@@ -12,7 +12,9 @@ Repository > https://github.com/gileiva/dataquest
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-Coming Soon
+
+#### [Codigi](https://github.com/gileiva/codigi)
+>  Codigi is a small app built with HTML, CSS, and JavaScript that allows you to encode and decode text into a special code where each letter is converted into an emoji.
 
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
