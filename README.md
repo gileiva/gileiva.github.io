@@ -1,20 +1,23 @@
 ### Hi there 👋
 
-### Welcome to my global repository ;)
+## Gi Leiva
+#### Python & Data Analytics
+Explore my Python, JavaScript, and Data Science notebook projects on Github. Find all my repositories here.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+#### [DataQuest](https://github.com/gileiva/dataquest "DataQuest")
+>  A trivia game written in Python by Gi Leiva. The game generates questions and answers from different datasets with general information, using the Pandas and Numpy libraries.
+
+Repository > https://github.com/gileiva/dataquest
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Coming Soon
+
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+Coming Soon
+
 
 For more info visit: gileiva.ar
 
-<!--
-**gileiva/gileiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
