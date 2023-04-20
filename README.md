@@ -23,11 +23,11 @@ Repository > https://github.com/gileiva/dataquest
 
 ---
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 #### [Safe Beauty](https://github.com/gileiva/safe_beauty)
 >  This project utilizes the California Safe Cosmetics Program (CSCP) database to analyze the presence of potentially harmful ingredients in beauty and cosmetic products. The CSCP law requires cosmetic companies to report the presence of these ingredients and is based on Proposition 65, a list of chemicals that have been identified as hazardous to human health.
 >  
->  Repository > [https://github.com/gileiva/codigi](https://github.com/gileiva/safe_beauty)
+>  Repository > [https://github.com/gileiva/safe_beauty](https://github.com/gileiva/safe_beauty)
 
 ---
 
